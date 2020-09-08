@@ -1,0 +1,114 @@
+html{
+  min-height: 100%;
+  margin:0;
+}
+body {
+  width: 100%;
+  min-height:100%;
+  margin:0;
+  text-align: center;
+  font-family: verdana,sans-serif;
+}
+h1{
+  margin: 60px auto 0 auto;
+  font-family:"Sacramento",sans-serif;
+}
+#name{
+  color:#66BFBF;
+  font-size: 5.625rem;
+}
+#intro{
+  line-height: 2;
+  color: #66BFBF;
+  font-size:2.5rem;
+  font-weight: normal;
+}
+.top-container{
+  background-color: #E8F6F6;;
+  padding-top:200px;
+}
+.middle-container{
+  padding-top:50px;
+  padding-bottom:50px;
+  color: rgb(66, 63, 63);
+  font-weight: 600;
+}
+.bottom-container{
+width:100%;
+margin-top:50px;
+padding-top:30px;
+padding-bottom:30px;
+background-color: #66BFBF;
+}
+.top-cloud{
+  position: absolute;
+  right: 320px;
+}
+.bottom-cloud{
+  position:absolute;
+  left: 320px;
+}
+h3,a{
+  color : #11999E;
+}
+h2,h3{
+  font-family: "Montserrat",sans-serif;
+  color : #11999E;
+}
+p{
+  font-family: 'Merriweather', serif;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.Computer-guy{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+.zoro{
+  width:35%;
+  float:right;
+  margin-left:30px;
+}
+.About-me_info{
+  margin: 0 auto;
+  width:30%;
+  line-height:2;
+  color:#40514e;
+  font-weight: 8 00;
+  margin-bottom: 30px;
+}
+hr {
+  border: none;
+  border-top: 7px dotted rgba(128, 128, 128, 0.384);
+  width: 5%;
+  align-content: center;
+  margin-bottom:100px;
+}
+.btn{
+  background-color:#085ba8;
+  color:whitesmoke;
+  padding:15px;
+  border-radius:15px;
+  font-weight:500;
+  text-decoration: none;
+  display: inline-block;
+
+}
+.btn:hover{
+  background-color:#0e7ba1;
+}
+.contact-me{
+  margin:auto;
+  width:25%;
+}
+.footer-link{
+  margin:auto 20px;
+}
+.footer-link:hover{
+color:whitesmoke;
+}
